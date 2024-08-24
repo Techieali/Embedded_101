@@ -20,5 +20,8 @@ int main() {
     // Display the result
     printf("Area of the rectangle: %d\n", area);
 
+    // reekhil abel
+    
+
     return 0;
 }
